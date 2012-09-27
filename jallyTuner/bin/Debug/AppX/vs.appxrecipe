@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAIN</Machine>
+    <WindowsUser>filip_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C5B98047941D15B710BF1BF55BF857B818A5D2EE2EDE69A825887F1861DC8394</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>db76fc45-4aa9-4667-aae8-26125ac81897_1.0.0.0_neutral__wpq82swyj8npm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>db76fc45-4aa9-4667-aae8-26125ac81897_wpq82swyj8npm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>db76fc45-4aa9-4667-aae8-26125ac81897</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=filip_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\CSharpProjects\jallyTuner\jallyTuner\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-28T00:14:38.783</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\bin\Debug\jallyTuner.exe">
+      <PackagePath>jallyTuner.exe</PackagePath>
+      <Modified>2012-09-28T00:14:38.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\bin\Debug\jallyTuner.pdb">
+      <PackagePath>jallyTuner.pdb</PackagePath>
+      <Modified>2012-09-28T00:14:37.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T21:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-09-28T00:13:35.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-28T00:13:35.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\jallyTuner\jallyTuner\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-28T00:14:38.435</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
